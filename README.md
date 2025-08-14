@@ -195,3 +195,4 @@ For support and questions:
 ---
 
 **Built with ❤️ for the security community** 
+# WebSecVisualizer
